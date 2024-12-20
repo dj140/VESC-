@@ -84,13 +84,13 @@ GenerateClassCluster=0
 DocumentUniqueId=DESIQVCT
 
 [Document3]
-DocumentPath=PAGE1.SchDoc
+DocumentPath=VESC_POWER_SCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -115,9 +115,30 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CUOWHILW
+
+[Document5]
+DocumentPath=VESC_POWER_74mm.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FIFVDOMU
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for VESC_POWER\Design Rule Check - VESC_POWER.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=VESC_POWER.LOG
 DItemRevisionGUID=
 
@@ -1069,6 +1090,54 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=CAP NP
+ComponentSymbolReference0=CAP NP
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Any
+ComponentLibraryIdentifier1=
+ComponentDesignItemID1=CAP
+ComponentSymbolReference1=CAP
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Any
+ComponentLibraryIdentifier2=
+ComponentDesignItemID2=CON2
+ComponentSymbolReference2=CON2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Any
+ComponentLibraryIdentifier3=
+ComponentDesignItemID3=CON4
+ComponentSymbolReference3=CON4
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Any
+ComponentLibraryIdentifier4=
+ComponentDesignItemID4=NTC
+ComponentSymbolReference4=NTC
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Any
+ComponentLibraryIdentifier5=
+ComponentDesignItemID5=RESISTOR
+ComponentSymbolReference5=RESISTOR
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Any
+ComponentLibraryIdentifier6=
+ComponentDesignItemID6=TEST POINT
+ComponentSymbolReference6=TEST POINT
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=VESC_POWER_Library.SchLib
+ComponentDesignItemID7=IAUA250N04S6N007EAUMA1
+ComponentSymbolReference7=IAUA250N04S6N007EAUMA1
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
