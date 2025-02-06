@@ -201,6 +201,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOUNMGRT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VESC_DEVICE_75100\Design Rule Check - VESC_DEVICE_75100.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
